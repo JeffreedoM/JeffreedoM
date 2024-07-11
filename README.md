@@ -31,10 +31,6 @@ I'm a passionate developer with ❤️ for coding. In my free time, I enjoy play
 - Telegram: [Telegram Link](https://t.me/jeffreedom29)
 - Portfolio: https://jeffrey-nunez.vercel.app
 
-## Fun Fact
-
-[Interesting Fact about Yourself]
-
 ---
 
 ⭐️ From [Jeffrey Nuñez](https://github.com/JeffreedoM)
